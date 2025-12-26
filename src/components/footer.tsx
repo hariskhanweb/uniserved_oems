@@ -15,7 +15,7 @@ export default function Footer() {
   }, [])
   // Navigation items - easy to edit from one place
   const navigationItems = [
-    { href: "/", label: "Home", anchor: "#hero" },
+    { href: "/", label: "Home", anchor: "#home" },
     { href: "/", label: "Platform", anchor: "#platform" },
     { href: "/", label: "Why choose us", anchor: "#benefits" },
     { href: "/", label: "Our services", anchor: "#services" },
